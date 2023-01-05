@@ -1,2 +1,1 @@
-# PumpkinTools
-Useful tools to look cool at school.
+# PumpkinTools V1.0
